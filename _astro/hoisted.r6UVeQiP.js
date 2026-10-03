@@ -1,0 +1,1 @@
+import"./hoisted.BtNER9JX.js";document.querySelectorAll("[data-video-poster]").forEach(e=>{const t=e.querySelector("video");t.addEventListener("playing",()=>{e.dataset.started=""}),t.addEventListener("emptied",()=>{delete e.dataset.started})});
